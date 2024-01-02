@@ -1,7 +1,7 @@
 const memories = {
     '2502': 'It\'s okay to feel negative emotions, it\'s okay to cry, as long as you keep going',
-    '0506': 'Quand j\'étais petite et que tu écrivais ton livre sur l\'ancien ordinateur. Tu m\'avais montré comment écrire mon nom et changer la couleur du texte.',
-    '0309': 'Quand tu me conduisais à l\'école secondaire avec la Civic et que je faisais jouer mes chansons. Ça me faisait plaisir quand il y avait des chansons que tu aimais.',
+    '0605': 'Quand j\'étais petite et que tu écrivais ton livre sur l\'ancien ordinateur. Tu m\'avais montré comment écrire mon nom et changer la couleur du texte.',
+    '0903': 'Quand tu me conduisais à l\'école secondaire avec la Civic et que je faisais jouer mes chansons. Ça me faisait plaisir quand il y avait des chansons que tu aimais.',
     '1112': 'Quand on allait à la bibliothèque d\'Anjou, et de Saint-Léonard quand celle d\'Anjou était en rénovation, parce qu\'on n\'avait pas de wi-fi à la maison.',
     '2709': 'Quand je te regardais jouer à School Days et Hard Time sur ta tablette et qu\'on se tapait des marathons de Danny Phantom et Adventure Time avec les CDs de la Grande Bibliothèque.'
 };
